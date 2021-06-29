@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\RegionExtractor\\RegionEx.csproj": {}
+    "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\KommissarsRomeTools\\KommissarsRomeTools\\KommissarsRomeTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\RegionExtractor\\RegionEx.csproj": {
+    "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\KommissarsRomeTools\\KommissarsRomeTools\\KommissarsRomeTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\RegionExtractor\\RegionEx.csproj",
-        "projectName": "RegionEx",
-        "projectPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\RegionExtractor\\RegionEx.csproj",
+        "projectUniqueName": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\KommissarsRomeTools\\KommissarsRomeTools\\KommissarsRomeTools.csproj",
+        "projectName": "KommissarsRomeTools",
+        "projectPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\KommissarsRomeTools\\KommissarsRomeTools\\KommissarsRomeTools.csproj",
         "packagesPath": "C:\\Users\\Ziggy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\RegionExtractor\\obj\\",
+        "outputPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\KommissarsRomeTools\\KommissarsRomeTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ziggy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KommissarsRomeTools", "KommissarsRomeTools\KommissarsRomeTools.csproj", "{75E74FF0-031C-4AEC-BE81-601F2656EDC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegionEx", "..\RegionExtractor\RegionEx.csproj", "{BA996098-9D27-43F7-81CC-6C85CFB2FFF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomeScriptGenerator", "..\RomeScriptGenerator\RomeScriptGenerator.csproj", "{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E74FF0-031C-4AEC-BE81-601F2656EDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E74FF0-031C-4AEC-BE81-601F2656EDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E74FF0-031C-4AEC-BE81-601F2656EDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E74FF0-031C-4AEC-BE81-601F2656EDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA996098-9D27-43F7-81CC-6C85CFB2FFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA996098-9D27-43F7-81CC-6C85CFB2FFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA996098-9D27-43F7-81CC-6C85CFB2FFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA996098-9D27-43F7-81CC-6C85CFB2FFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C798FC5-A2F5-46F1-B9B3-3243B501B612}
+	EndGlobalSection
+EndGlobal
