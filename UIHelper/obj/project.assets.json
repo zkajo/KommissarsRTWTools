@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\BuildingNamer.csproj",
-      "projectName": "BuildingNamer",
-      "projectPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\BuildingNamer.csproj",
+      "projectUniqueName": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\UIHelper.csproj",
+      "projectName": "UIHelper",
+      "projectPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\UIHelper.csproj",
       "packagesPath": "C:\\Users\\Ziggy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\obj\\",
       "projectStyle": "PackageReference",
