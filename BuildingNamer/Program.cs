@@ -16,6 +16,9 @@ namespace BuildingNamer
             Console.WriteLine("The program will take anything located under the base directory," +
                 "\nand rename it with appropraite tags, like barbarian, carthagianian and roman. " +
                 "\nThese will be located in the Output folder, where you can delete as needed");
+
+            Console.WriteLine();
+            Console.WriteLine("Anything with a keyword \"base\" is going to be replaced with a culture tag.");
             Console.ReadLine();
             App app = new App();
         }
@@ -30,7 +33,7 @@ namespace BuildingNamer
 
         private void Run()
         {
-            string buildingsPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Data\base\buildings");
+            string buildingsPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Data\base");
             List<string> fileInfo = Directory.GetFiles(buildingsPath, "*.*", SearchOption.AllDirectories).ToList();
 
             string outputPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Output");
