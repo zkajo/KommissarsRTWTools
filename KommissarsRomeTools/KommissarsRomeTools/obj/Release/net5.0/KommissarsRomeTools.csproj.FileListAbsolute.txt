@@ -1,0 +1,16 @@
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.deps.json
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.runtimeconfig.json
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.runtimeconfig.dev.json
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\ref\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\bin\Release\net5.0\KommissarsRomeTools.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.csprojAssemblyReference.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.AssemblyInfoInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.AssemblyInfo.cs
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.csproj.CoreCompileInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\ref\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.genruntimeconfig.cache
