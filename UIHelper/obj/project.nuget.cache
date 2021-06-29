@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oaL37JuwHeenJHVLbZ90USnToiMqCvun3lYfB/e7QUXclEbOMqEmhvcyhVtwvuRHkhQw5ajue42nd9gYeAmWkA==",
+  "dgSpecHash": "Xe39KdvxxWKolDSkUdD93aAvzWLjJ6hcb3OpapV2HVmo5HHGEGQTVaS43ERHDX4PJjkZE8wJmkqlYStcDqwudw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\BuildingNamer\\UIHelper.csproj",
+  "projectFilePath": "C:\\Users\\Ziggy\\Desktop\\Git\\RTW-Region-Extractor\\UIHelper\\UIHelper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

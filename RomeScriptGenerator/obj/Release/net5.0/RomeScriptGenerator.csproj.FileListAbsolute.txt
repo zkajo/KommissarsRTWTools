@@ -17,3 +17,15 @@ C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\RomeScriptGenerator\obj\Release\
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\RomeScriptGenerator\obj\Release\net5.0\ref\RomeScriptGenerator.dll
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\RomeScriptGenerator\obj\Release\net5.0\RomeScriptGenerator.pdb
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\RomeScriptGenerator\obj\Release\net5.0\RomeScriptGenerator.genruntimeconfig.cache
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.exe
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\NewScript.txt
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RegionNames.txt
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\SampleScript.txt
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\SettlementNames.txt
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.deps.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.runtimeconfig.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.runtimeconfig.dev.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\ref\RomeScriptGenerator.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeScriptGenerator\net5.0\RomeScriptGenerator.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\RomeScriptGenerator\obj\Release\net5.0\RomeScriptGenerator.csprojAssemblyReference.cache

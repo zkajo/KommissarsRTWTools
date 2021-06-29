@@ -5,6 +5,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\..\KommissarsRTWTools\UIHelper</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\..\KommissarsRTWTools\UIHelper</OutputPath>
+  </PropertyGroup>
+
   <ItemGroup>
     <Compile Remove="Data\barbarian - Copy\**" />
     <Compile Remove="Data\carthaginian - Copy\**" />

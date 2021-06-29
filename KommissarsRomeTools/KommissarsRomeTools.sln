@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegionEx", "..\RegionExtrac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomeScriptGenerator", "..\RomeScriptGenerator\RomeScriptGenerator.csproj", "{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingNamer", "..\BuildingNamer\BuildingNamer.csproj", "{26E62072-921B-4450-88C1-DA5518C0EBFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UIHelper", "..\UIHelper\UIHelper.csproj", "{528A6AA2-99CF-487B-9CDD-17F46FF8937C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EAB981D-7B1C-4562-A6CF-FE7DF4ED25DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26E62072-921B-4450-88C1-DA5518C0EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26E62072-921B-4450-88C1-DA5518C0EBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26E62072-921B-4450-88C1-DA5518C0EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26E62072-921B-4450-88C1-DA5518C0EBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528A6AA2-99CF-487B-9CDD-17F46FF8937C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A6AA2-99CF-487B-9CDD-17F46FF8937C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A6AA2-99CF-487B-9CDD-17F46FF8937C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A6AA2-99CF-487B-9CDD-17F46FF8937C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

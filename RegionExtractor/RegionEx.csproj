@@ -5,6 +5,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\..\KommissarsRTWTools\RegionExtractor</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\..\KommissarsRTWTools\RegionExtractor</OutputPath>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Update="RegionNames.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

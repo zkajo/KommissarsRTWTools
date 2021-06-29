@@ -14,3 +14,17 @@ C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRo
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\ref\KommissarsRomeTools.dll
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.pdb
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\KommissarsRomeTools\KommissarsRomeTools\obj\Release\net5.0\KommissarsRomeTools.genruntimeconfig.cache
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.exe
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.deps.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.runtimeconfig.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.runtimeconfig.dev.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\ref\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\net5.0\KommissarsRomeTools.pdb
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.exe
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.deps.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.runtimeconfig.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.runtimeconfig.dev.json
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\ref\KommissarsRomeTools.dll
+C:\Users\Ziggy\Desktop\Git\KommissarsRTWTools\RomeTools\net5.0\KommissarsRomeTools.pdb
