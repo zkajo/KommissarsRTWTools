@@ -7,9 +7,9 @@ Kommissars RTW Tools are designed in mind with my own work first and foremost, a
 Extracts regions from "descr_regions.txt" file. Make sure you provide a full path, otherwise will result in errors. At the moment it does not look for any errors and assumes the file is formatted correctly, which, I mean, it should be anyway.
 Results are saved into RegionNames and SettlementNames text files. You can copy and paste them into excel tables if you wish - they'll match.
 
-##RomeScriptGenerator
+## RomeScriptGenerator
 At the moment uses whatever is inside of "SampleScript.txt" and "SettlementNames.txt". Keyword SETTLEMENT is going to be replaced with names of all settlements found in the file. Good for automating settlement scripts. Functionality will be expended in the future.
 Result is saved in "NewScript.txt"
 
-##RomeScriptGenerator
+## RomeScriptGenerator
 Uses whatever is in "Data" folder. Anything with a keyword "base" will get renamed to a culture tag, like "barbarian" or "carthage". Good for quickly creating building icons from one master. Results are saved in the output folder.
