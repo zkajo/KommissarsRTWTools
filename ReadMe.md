@@ -11,5 +11,5 @@ Results are saved into RegionNames and SettlementNames text files. You can copy 
 At the moment uses whatever is inside of "SampleScript.txt" and "SettlementNames.txt". Keyword SETTLEMENT is going to be replaced with names of all settlements found in the file. Good for automating settlement scripts. Functionality will be expended in the future.
 Result is saved in "NewScript.txt"
 
-## RomeScriptGenerator
+## UIHelper
 Uses whatever is in "Data" folder. Anything with a keyword "base" will get renamed to a culture tag, like "barbarian" or "carthage". Good for quickly creating building icons from one master. Results are saved in the output folder.
