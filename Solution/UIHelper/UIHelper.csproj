@@ -48,13 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Data\base\buildings\#base_building.tga">
+    <None Include="Data\base\buildings\#CULTUREWORD_building.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data\base\buildings\#base_building_constructed.tga">
+    <None Include="Data\base\buildings\#CULTUREWORD_building_constructed.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data\base\buildings\construction\#base_building.tga">
+    <None Include="Data\base\buildings\construction\#CULTUREWORD_building.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -12,4 +12,4 @@ At the moment uses whatever is inside of "SampleScript.txt" and "SettlementNames
 Result is saved in "NewScript.txt"
 
 ## UIHelper
-Uses whatever is in "Data" folder. Anything with a keyword "base" will get renamed to a culture tag, like "barbarian" or "carthage". Good for quickly creating building icons from one master. Results are saved in the output folder.
+Uses whatever is in "Data" folder. Anything with a keyword "CULTUREWORD" will get renamed to a culture tag, like "barbarian" or "carthage". Good for quickly creating building icons from one master. Results are saved in the output folder.

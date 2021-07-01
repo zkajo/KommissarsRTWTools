@@ -60,7 +60,7 @@ namespace BuildingNamer
             string directory = info.Directory.FullName;
 
             string pathName = info.FullName.Replace(@"Data\base", @"Output\" + culture);
-            string modifiedName = info.Name.Replace("base", culture);
+            string modifiedName = info.Name.Replace("CULTUREWORD", culture);
             pathName = pathName.Replace(info.Name, modifiedName);
 
             string newDirectory = directory.Replace(@"Data\base", @"Output\" + culture);
