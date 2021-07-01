@@ -1,0 +1,11 @@
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\RomeScriptGenerator.exe.config
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\RomeScriptGenerator.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\RomeScriptGenerator.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RomeScriptGenerator\obj\Debug\RomeScriptGenerator.csprojAssemblyReference.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RomeScriptGenerator\obj\Debug\RomeScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RomeScriptGenerator\obj\Debug\RomeScriptGenerator.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RomeScriptGenerator\obj\Debug\RomeScriptGenerator.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\NewScript.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\RegionNames.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\SampleScript.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RomeScriptGenerator\SettlementNames.txt

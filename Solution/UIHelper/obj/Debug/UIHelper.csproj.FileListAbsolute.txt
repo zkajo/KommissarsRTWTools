@@ -1,0 +1,10 @@
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\UIHelper.exe.config
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\UIHelper.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\UIHelper.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\UIHelper\obj\Debug\UIHelper.csprojAssemblyReference.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\UIHelper\obj\Debug\UIHelper.csproj.CoreCompileInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\UIHelper\obj\Debug\UIHelper.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\UIHelper\obj\Debug\UIHelper.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\#base_building.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\#base_building_constructed.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\construction\#base_building.tga

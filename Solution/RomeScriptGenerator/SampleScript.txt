@@ -1,0 +1,39 @@
+﻿	monitor_event GeneralCaptureSettlement not FactionIsLocal
+	and SettlementName SETTLEMENT
+		set_counter captured_SETTLEMENT 0
+		console_command create_building SETTLEMENT recent_conquest
+	end_monitor;
+
+	monitor_event GeneralCaptureSettlement FactionIsLocal
+	and SettlementName SETTLEMENT
+		set_counter captured_SETTLEMENT 0
+		console_command create_building SETTLEMENT recent_conquest
+	end_monitor;
+	
+	monitor_event SettlementTurnEnd not FactionIsLocal
+	and SettlementName SETTLEMENT
+		destroy_building "SETTLEMENT" recent_conquest
+		destroy_building "SETTLEMENT" recent_conquest_2
+		destroy_building "SETTLEMENT" recent_conquest_3
+		destroy_building "SETTLEMENT" suppression_law
+		destroy_building "SETTLEMENT" suppression_law_2
+	end_monitor;
+
+	monitor_event SettlementTurnEnd FactionIsLocal
+	and SettlementName Isurium
+		inc_counter captured_SETTLEMENT 1
+		if I_CompareCounter captured_SETTLEMENT > 1
+		and I_CompareCounter captured_SETTLEMENT < 3
+			destroy_building "SETTLEMENT" recent_conquest
+			console_command create_building SETTLEMENT recent_conquest_2
+		end_if
+		if I_CompareCounter captured_SETTLEMENT > 6
+		and I_CompareCounter captured_SETTLEMENT < 8
+			destroy_building "SETTLEMENT" recent_conquest_2
+			console_command create_building SETTLEMENT recent_conquest_3
+		end_if
+		if I_CompareCounter captured_SETTLEMENT > 8
+		and I_CompareCounter captured_SETTLEMENT < 10
+			destroy_building "SETTLEMENT" recent_conquest_3
+		end_if
+	end_monitor;

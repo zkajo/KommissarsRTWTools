@@ -1,0 +1,10 @@
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\MainSolution.exe.config
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\MainSolution.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\MainSolution.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\MainSolution\MainSolution\obj\Debug\RTWTools.csprojAssemblyReference.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\MainSolution\MainSolution\obj\Debug\RTWTools.csproj.CoreCompileInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\MainSolution\MainSolution\obj\Debug\MainSolution.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\MainSolution\MainSolution\obj\Debug\MainSolution.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\Main\MainSolution.exe.config
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\Main\MainSolution.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\Main\MainSolution.pdb

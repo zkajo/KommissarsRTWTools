@@ -1,0 +1,9 @@
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RegionExtractor\RegionExtractor.exe.config
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RegionExtractor\RegionExtractor.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RegionExtractor\RegionExtractor.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RegionExtractor\obj\Debug\RegionExtractor.csprojAssemblyReference.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RegionExtractor\obj\Debug\RegionExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RegionExtractor\obj\Debug\RegionExtractor.exe
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\RegionExtractor\obj\Debug\RegionExtractor.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RegionExtractor\RegionNames.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\RegionExtractor\SettlementNames.txt

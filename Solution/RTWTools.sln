@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTWTools", "RTWTools\RTWTools.csproj", "{62238132-349F-424C-A1F9-010B54BFAE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegionExtractor", "RegionExtractor\RegionExtractor.csproj", "{6962C907-385D-4C8D-9035-08AD9D78E9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomeScriptGenerator", "RomeScriptGenerator\RomeScriptGenerator.csproj", "{35A71BC6-1019-44C2-AC99-2FF3CA0FD29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIHelper", "UIHelper\UIHelper.csproj", "{A3A52914-4916-42CE-9936-6A66D5148EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62238132-349F-424C-A1F9-010B54BFAE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62238132-349F-424C-A1F9-010B54BFAE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62238132-349F-424C-A1F9-010B54BFAE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62238132-349F-424C-A1F9-010B54BFAE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6962C907-385D-4C8D-9035-08AD9D78E9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6962C907-385D-4C8D-9035-08AD9D78E9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6962C907-385D-4C8D-9035-08AD9D78E9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6962C907-385D-4C8D-9035-08AD9D78E9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A71BC6-1019-44C2-AC99-2FF3CA0FD29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A71BC6-1019-44C2-AC99-2FF3CA0FD29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A71BC6-1019-44C2-AC99-2FF3CA0FD29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A71BC6-1019-44C2-AC99-2FF3CA0FD29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A52914-4916-42CE-9936-6A66D5148EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A52914-4916-42CE-9936-6A66D5148EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A52914-4916-42CE-9936-6A66D5148EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A52914-4916-42CE-9936-6A66D5148EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DE5780-0797-4A82-9960-109599A62D5A}
+	EndGlobalSection
+EndGlobal
