@@ -8,7 +8,7 @@ Extracts regions from "descr_regions.txt" file. Make sure you provide a full pat
 Results are saved into RegionNames and SettlementNames text files. You can copy and paste them into excel tables if you wish - they'll match.
 
 ## RomeScriptGenerator
-At the moment uses whatever is inside of "SampleScript.txt" and "SettlementNames.txt". Keyword SETTLEMENT is going to be replaced with names of all settlements found in the file. Good for automating settlement scripts. Functionality will be expended in the future.
+At the moment uses whatever is inside of "SampleScript.txt" and "SettlementNames.txt". Keyword SETTLEMENT is going to be replaced with names of all settlements found in the file. Good for automating settlement scripts. Functionality will be expanded in the future.
 Result is saved in "NewScript.txt"
 
 ## UIHelper
