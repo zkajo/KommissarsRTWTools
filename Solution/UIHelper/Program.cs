@@ -11,14 +11,14 @@ namespace BuildingNamer
         static void Main(string[] args)
         {
             Console.WriteLine("Before starting, make sure the files you want to rename are " +
-                "\nlocated in \"Data\\Base\" folder. For example \"#base_buildingName.tga\"");
+                "\nlocated in \"Data\\Base\" folder. For example \"#CULTUREWORD_buildingName.tga\"");
             Console.WriteLine();
             Console.WriteLine("The program will take anything located under the base directory," +
                 "\nand rename it with appropraite tags, like barbarian, carthagianian and roman. " +
                 "\nThese will be located in the Output folder, where you can delete as needed");
 
             Console.WriteLine();
-            Console.WriteLine("Anything with a keyword \"base\" is going to be replaced with a culture tag.");
+            Console.WriteLine("Anything with a keyword \"CULTUREWORD\" is going to be replaced with a culture tag.");
             Console.ReadLine();
             App app = new App();
         }
