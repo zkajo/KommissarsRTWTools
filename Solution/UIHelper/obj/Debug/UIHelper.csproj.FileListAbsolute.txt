@@ -19,3 +19,15 @@ C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMak
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\base\buildings\#CULTUREWORD_building_constructed.tga
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\base\buildings\construction\#CULTUREWORD_building.tga
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\CulturesList.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\armenian_armoured_spearmen\uc_#armenian_armoured_spearmen_aor.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\armenian_armoured_spearmen\uic_armenian_armoured_spearmen_aor_info.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\armenian_armoured_spearmen\ui_armenian_armoured_spearmen_aor_info.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\armenian_armoured_spearmen\u_#armenian_armoured_spearmen_aor.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\Setup.txt
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Solution\UIHelper\obj\Debug\UIHelper.csproj.CopyComplete
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\Factions.csv
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\Factions.xlsx
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\bruttain_core_infantry\uc_bruttain_core_infantry_aor.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\bruttain_core_infantry\uic_bruttain_core_infantry_aor.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\bruttain_core_infantry\ui_bruttain_core_infantry_aor.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\UnitMaker\bruttain_core_infantry\u_bruttain_core_infantry_aor.tga
