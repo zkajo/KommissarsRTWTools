@@ -48,23 +48,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Data\base\buildings\#CULTUREWORD_building.tga">
+    <None Include="Data\BuildingMaker\base\buildings\#CULTUREWORD_building.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data\base\buildings\#CULTUREWORD_building_constructed.tga">
+    <None Include="Data\BuildingMaker\base\buildings\#CULTUREWORD_building_constructed.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data\base\buildings\construction\#CULTUREWORD_building.tga">
+    <None Include="Data\BuildingMaker\base\buildings\construction\#CULTUREWORD_building.tga">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Data\barbarian\" />
-    <Folder Include="Data\carthaginian\" />
-    <Folder Include="Data\eastern\" />
-    <Folder Include="Data\egyptian\" />
-    <Folder Include="Data\greek\" />
-    <Folder Include="Data\roman\" />
+    <Content Include="Data\BuildingMaker\CulturesList.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

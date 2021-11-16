@@ -8,9 +8,6 @@ C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Solution\UIHelper\obj\Debug\UIHelper
 C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\#base_building.tga
 C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\#base_building_constructed.tga
 C:\Users\Ziggy\Desktop\Git\RTW-Tools Rework\Builds\UIHelper\Data\base\buildings\construction\#base_building.tga
-C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\base\buildings\#CULTUREWORD_building.tga
-C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\base\buildings\#CULTUREWORD_building_constructed.tga
-C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\base\buildings\construction\#CULTUREWORD_building.tga
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\UIHelper.exe.config
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\UIHelper.exe
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\UIHelper.pdb
@@ -18,3 +15,7 @@ C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Solution\UIHelper\obj\Debug\UIHe
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Solution\UIHelper\obj\Debug\UIHelper.csproj.CoreCompileInputs.cache
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Solution\UIHelper\obj\Debug\UIHelper.exe
 C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Solution\UIHelper\obj\Debug\UIHelper.pdb
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\base\buildings\#CULTUREWORD_building.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\base\buildings\#CULTUREWORD_building_constructed.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\base\buildings\construction\#CULTUREWORD_building.tga
+C:\Users\Ziggy\Desktop\Git\RTW-Region-Extractor\Builds\UIHelper\Data\BuildingMaker\CulturesList.txt
