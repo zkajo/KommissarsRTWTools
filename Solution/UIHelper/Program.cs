@@ -76,7 +76,7 @@ namespace BuildingNamer
                 entry.TryGetValue("Unit", out value);
                 string name = value as string;
 
-                if (name != null)
+                if (name != null && !name.StartsWith(";"))
                 {
                     Unit newUnit = new Unit(Path.Combine(_unitMakerPath, name));
                     foreach (var key in entry.Keys)
@@ -181,6 +181,11 @@ namespace BuildingNamer
             public Unit(string path)
             {
                 FolderPath = path;
+                if (!Directory.Exists(path))
+                {
+                    Console.WriteLine("path not found: " + path);
+                    Console.WriteLine("This will result in unit graphics not being created!");
+                }
                 Files = Directory.GetFiles(path).ToList();
             }
 
